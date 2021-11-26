@@ -4,4 +4,4 @@ At the end of November, I went to a shift at the Tavatui Education Center to dec
 
 We were processing the pictures, getting rid of noise, so in the repository you can find examples of works written in Python
 
-![alt text]:(https://github.com/lloppy/tavatuiSpace/TykQlwDVknY.jpg)"Our team"
+![alt text]:(https://github.com/lloppy/tavatuiSpace/TykQlwDVknY.jpg "Our team")
